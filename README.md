@@ -76,11 +76,11 @@
 <hr />
 
 ## 📊 My Github Stats
-   <br/>   
+<!--    <br/>   
     <p align="center">      
   <a href=""><img alt="Priyanshu7250" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu7250&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
-     <br/>
+     <br/> -->
    <p align="center">
     <a href="https://github.com/Priyanshu7250/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanshu7250" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu7250&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
