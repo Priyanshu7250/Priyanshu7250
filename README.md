@@ -98,7 +98,11 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Priyanshu7250/github-readme-activity-graph"><img alt="Priyanshu7250 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyanshu7250&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu7250&show_icons=true&locale=en&layout=compact" alt="Priyanshu7250" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Priyanshu7250&show_icons=true&locale=en" alt="Priyanshu7250" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu7250&" alt="Priyanshu7250" /></p> -->
 
 <br/>
 <br/>
