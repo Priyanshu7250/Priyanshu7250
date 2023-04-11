@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z3Lx3iwvCk23KzAw3wyanRXneL3IWVKO/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://priyanshu7250.github.io/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://priyanshuportfolio0.netlify.app/)
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
